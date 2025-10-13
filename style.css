@@ -4,3 +4,6 @@ body{
 video{
     background-color: #13A485; border: 1px solid; border-color: yellow;
 }
+p{
+   font-style: italic; font-size: 18px;
+}
